@@ -1,6 +1,6 @@
 # Laser_Defender
 
-Old school "Sapace Invaders" small videogame I made with Unity with C#.
+Old school "Sapace Invaders" small videogame I made with Unity and C#.
 
 Tell me your score! :)
 
